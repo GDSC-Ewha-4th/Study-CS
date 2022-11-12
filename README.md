@@ -8,10 +8,10 @@
 ## 📃 스터디 방식
 
 - 매 주 정해진 파트의 강의를 수강한 후, 공부한 내용을 깃허브에 게시합니다. 정해진 스터디 시간에 짧게 리뷰를 진행합니다.
-- 운영체제, 네트워크, 컴퓨터구조에 대해 공부합니다.
-- 각 파트는 KOCW 강의를 들으며 공부할 예정입니다.
-    - 운영체제 - [반효경 교수님 운영체제 강의](http://www.kocw.net/home/search/kemView.do?kemId=1226304)
-    - 네트워크 - [이석복 교수님 컴퓨터네트워크 강의](http://www.kocw.net/home/search/kemView.do?kemId=1312397)
+- 운영체제, 네트워크, Java에 대해 공부합니다.
+- 운영체제 - [반효경 교수님 운영체제 강의](http://www.kocw.net/home/search/kemView.do?kemId=1226304)
+- 네트워크 - [이석복 교수님 컴퓨터네트워크 강의](http://www.kocw.net/home/search/kemView.do?kemId=1312397)
+- Java - 「Java의 정석」
     
 ## 📅 스터디 일정
 
